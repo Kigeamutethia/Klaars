@@ -1,7 +1,7 @@
 
   # Klaar Solutions LTD
 
-  This is a code bundle for Klaar Solutions LTD. The original project is available at https://www.figma.com/design/a6BYf2B1iriHqjRj6RcMR7/Klaar-Solutions-LTD.
+  This is a code bundle for Klaar Solutions LTD. 
 
   ## Running the code
 
